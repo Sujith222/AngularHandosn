@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "foods": [
+    {
+      "id": 1,
+      "name": "panner butter masala",
+      "rating": 4,
+      "price": 250
+    },
+    {
+      "id": 3,
+      "name": "biryani",
+      "rating": 5,
+      "price": 250
+    },
+    {
+      "id": 4,
+      "name": "milkshake",
+      "rating": 2,
+      "price": 220
+    },
+    {
+      "id": 5,
+      "name": "softdrinks",
+      "rating": 5,
+      "price": 50
+    },
+    {
+      "id": 6,
+      "name": "franky",
+      "rating": 4,
+      "price": 150
+    },
+    {
+      "id": 7,
+      "name": "Chocolate mousse",
+      "rating": 5,
+      "price": 300
+    },
+    {
+      "id": 8,
+      "name": "chicken biryani",
+      "rating": 4,
+      "price": 200
+    }
+  ]
+}
